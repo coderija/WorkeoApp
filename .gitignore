@@ -7,6 +7,7 @@ build/
 
 # Ignore environment files
 .env
+.env.local
 
 # macOS junk files
 .DS_Store
@@ -14,3 +15,5 @@ build/
 # VSCode project settings
 .vscode/
 
+MVP_Member_Management_App.pdf
+*.log
